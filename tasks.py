@@ -41,5 +41,29 @@
 # b = t
 # print("After Swap:",a,b)
 
-#Bubble sort
+#Bubble sort task4
+# num = [5,3,8,6,7,2]
+# num = [2,7,1,4]
+# length = len(num)
+# # print(length)
+# for i in range(length-1,0,-1):# length of iterations
+#     print(i)
+#     for j in range(i):# every iterations were moved bigger value to last so reduce length 1 
+#         if(num[j]>num[j+1]):
+#             temp = num[j]
+#             num[j] = num[j+1]
+#             num[j+1] = temp
+# print(num)
 
+
+
+# def sort(num_list):
+#     length = len(num_list)
+#     for i in range(length-1,0,-1):
+#         for j in range(i):
+#             if(num_list[j]>num_list[j+1]):
+#                 temp = num_list[j]
+#                 num_list[j] = num_list[j+1] 
+#                 num_list[j+1] = temp
+#     return num_list
+# print(sort([2,1,5,3,2]))
