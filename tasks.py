@@ -90,3 +90,38 @@
 # else:
 #     print("3rd number big")
 
+#Printing Stars
+
+# for i in range(5):
+#     for j in range(i+1):
+#         print("* ",end="")#print always take enter at end so now end =""
+#     print()#print always take new line
+
+# for i in range(5):
+#     for j in range(5-i):
+#         print("* ",end="")
+#     print()
+
+# for i in range(4):
+#     for j in range(4-i):
+#         val = j+1
+#         print(val,end="")
+#     print()
+
+ 
+
+# for i in range(4):
+#     for j in range(4):
+#         if(i<j):
+#             print(chr(65+14+j), end=" ")
+#         else :
+#             print(chr(65+j), end=" ")
+#     print()
+
+# for i in range(5):
+#     for k in range(5-i):
+#         print(" ",end="")
+#     for j in range(i+1):
+#         print("* ",end="")
+#     print()
+
