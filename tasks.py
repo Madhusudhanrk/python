@@ -67,3 +67,26 @@
 #                 num_list[j+1] = temp
 #     return num_list
 # print(sort([2,1,5,3,2]))
+
+# Given number is true of false
+# num = int(input("enter a number:"))
+
+# if num>0:
+#     print("Given Positive number")
+# elif num==0:
+#     print("Given 0 number")
+# else:
+#     print("Given Negative number")
+
+# Bigger number in the given numbers
+
+# a = int(input("enter 1st number:"))
+# b = int(input("enter 2nd number:"))
+# c = int(input("enter 3rd number:"))
+# if (a>b) and (a>c):
+#     print("1st number big")
+# elif (b>a) and (b>c):
+#     print("2nd number big")
+# else:
+#     print("3rd number big")
+
