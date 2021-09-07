@@ -74,7 +74,7 @@ LIST.clear => clear() -> Clear entire list
 """
 # PYTHON List supports Funtions *********************************************************************
 
-digits = [11,2 2,33,44]
+digits = [11,22,33,44]
 print(sum(digits))
 print(min(digits))
 print(max(digits))
@@ -90,3 +90,4 @@ print(digits[:-3])# no 0 counted but -1 same
 LIST SLICE => [start:stop-1] -> If start,stop index neither not metioned it takes from first,last index
                                 supports negative values but in reverse
 """
+ 
