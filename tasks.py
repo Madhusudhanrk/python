@@ -125,3 +125,17 @@
 #         print("* ",end="")
 #     print()
 
+l = []
+count=0
+num = int(input("Enter range:"))
+for i in range(2,num):
+
+    for j in range(2,10):
+        if (i%j==0):
+            count += 1
+        if count==1:
+            l.append(i)
+        count=0
+        
+    
+print(l)
