@@ -38,5 +38,11 @@ print(6>7) # o/p False
 
 print(int(True)) # o/p 1 TRUE = 1, False = 0 if type converted to numeric
 
-# SEQUENCE DATA TYPES (ONLY ABOUT RANGE EXCEPT WILL BE )
+# SEQUENCE DATA TYPES (ONLY ABOUT RANGE EXCEPT WILL BE DISCUSSED DETAILED)
+# syntax range(start,stop,steps) and stop-1 because range starts from 0 like arrays
+
+a = list(range(0,10)) # range return range object so converting to list
+print(a) # 0 to 9 because it like array start from 0
+a = list(range(0,10,2)) # skip 2-1=> 1 step 
+print(a)
 
