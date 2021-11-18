@@ -1,0 +1,26 @@
+					PYTHON INTRO
+
+1.WHAT IS PYTHON?
+	-> Python is a general purpose, high level, Interpreted Programming language It has easy syntax looks like simple english and dynamic semantics.
+	-> Created by Guido Van Rossum in 1989.
+	-> Python Uses Indentation in programming it makes code high readability.
+	
+2.WHY IS PYTHON POPULAR?
+	-> It's Easy Syntax
+	-> Python Uses Indentation so code has high readability.
+	-> Open source and big community support.
+	-> General purpose so can use in any applications, scripts
+	-> Rich Library support 
+3.FEATURES OF PYTHON
+	->Simplicity due to its Simplicity developer can focus on solution rather than syntax.
+	->opensource so developers can modify it if enough knowledge has.   
+	->Portability between OS source code converted to binary code.
+	->Python supports other languages code like html in django.
+	->Python is interpreted language so debugging is very easy.
+	->Huge library support.
+	->Python supports OOP.
+4.WHERE IS PYTHON USED IN INDUSTRY
+	->Google uses For better search results based on ranking websites
+	->DropBox uses in backend.
+	->Netflix uses ML to Know users interest and try to use longer application.
+	->NASA uses for scientific calculations

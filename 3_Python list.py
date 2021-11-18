@@ -15,6 +15,9 @@ nums[1] = "madhusudhan"
 print(nums)
 nums =(nums,["madhusudhan"])
 print(nums)
+"""o/p
+[[madhusudhan,'madhu',1.5,10],["madhusudhan"]]
+"""
 
 """
 Rule 3: List are Mutable and ordered by index

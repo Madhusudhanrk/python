@@ -6,11 +6,11 @@
 """
 ALL ARE SEQUENCE DATA TYPES 1 BY 1
 
-3. List    -> a = []
-4. Tuple   -> a = ()
+3. List    -> a = [] =>mutable->Index based->Allow Different Datatypes->Duplicate values
+4. Tuple   -> a = () =>Immutable
 5. Set     -> a = {}
-6. Range   -> range(start,stop,steps)
-7. Strings -> "text"
+6. Range   -> range(start,stop,steps)->Immutable
+7. Strings -> "text" -> Immutable
 
 """
 """
