@@ -7,14 +7,14 @@
 ALL ARE SEQUENCE DATA TYPES 1 BY 1
 
 3. List    -> a = [] =>mutable->Index based->Allow Different Datatypes->Duplicate values
-4. Tuple   -> a = () =>Immutable
-5. Set     -> a = {}
-6. Range   -> range(start,stop,steps)->Immutable
-7. Strings -> "text" -> Immutable
+4. Tuple   -> a = () =>Immutable->Index based->Allow Different Datatypes->Duplicate values
+5. Set     -> a = {} =>Mutable->Not Index based->Allow Different Datatypes->No Duplicate values
+6. Dictionary ->a = {} =>Mutable->Keys based->Allow Different Datatypes->Allow Duplicate values not keys
+    a = {'key':'value'} Map in other languages
+7. Strings -> "text" -> Immutable->Index based
+8. Range   -> range(start,stop,steps)->Immutable
 
-"""
-"""
-8. Dictionary -> a = {'key':'value'} Map in other languages
+ 
 """
 
 # None***********
