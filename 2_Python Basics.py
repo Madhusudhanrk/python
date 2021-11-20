@@ -10,3 +10,14 @@ z = _+6
 z is 10 _ represents previous output.
 
 """
+"""help()
+Use help('List') to learn more python
+"""
+
+"""
+Python doesn't have constants if need
+
+PI = 3.14 use caps but not rule
+
+type(PI) find type of the variables
+"""

@@ -4,7 +4,7 @@
 2. Numeric-> Int, Float, Complex, Bool
 """
 """
-ALL ARE SEQUENCE DATA TYPES 1 BY 1
+ALL ARE SEQUENCE DATA TYPES 1 BY 1 Except Dictionaries it is mapping
 
 3. List    -> a = [] =>mutable->Index based->Allow Different Datatypes->Duplicate values
 4. Tuple   -> a = () =>Immutable->Index based->Allow Different Datatypes->Duplicate values
