@@ -32,3 +32,9 @@ print(names['manoj'])
 """ Not Allow Duplicate Values and Keys Automatically Filter Consider Right to first"""
 """Un ordered access using keyword"""
 """Allow Different Datatypes"""
+
+
+"""
+dict.keys()
+dict.values()
+"""
