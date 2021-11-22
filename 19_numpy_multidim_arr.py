@@ -6,6 +6,7 @@ arr = array([
 ])
 
 print(arr)#o/p [[1 2 3][4 5 6]]
+print(arr[0][2])#o/p 3
 print(arr.dtype)#o/p int32
 print(arr.ndim)#o/p 2 dimensions
 print(arr.shape)#o/p (2,3) 2 rows, 3 colums
