@@ -5,6 +5,10 @@ def sq():
         i += 1
 
 val = sq()
+print(val)# <generator object sq at 0x000001B2D55E9A10>
+print(next(val)) #o/p 1
+
+
 for i in val:
     print(i)
 

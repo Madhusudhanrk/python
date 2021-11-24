@@ -53,7 +53,7 @@ for x in mytuple:
 # print(next(it))
 
 class numbers:
-  def __iter__(self):
+  def __iter__(self):#also __init__
     self.a = 1
     return self
   def __next__(self):

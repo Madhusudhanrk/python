@@ -139,3 +139,45 @@
         
     
 # print(l)
+
+
+#Fibonacci Series***************************************
+
+"""
+0  1  1  2  3  5  8  12
+a  b  c
+   a  b  c
+"""
+
+# def fib(n):
+#     a=0
+#     b=1
+#     if n <= 0:
+#         print("enter a valid range!")
+#     elif n==1:
+#         print(a)
+#     else:        
+#         print(a)
+#         print(b)
+#         for i in range(2,n):
+#             c = a + b
+#             a = b
+#             b = c
+#             if(c<=n):
+#                 print(c)
+
+# fib(150)
+
+
+#Prime numbers***************************************
+
+# n = int(input("Enter your number:\n"))
+n = 5
+# A number can divide by 1 and its own n so check from 2 to n-1 
+for i in range(2,n):
+    if n%i == 0:
+        print("Not a Prime Number")
+        break    
+else:#for else work only when entire loop runs wihout break
+    print("Prime Number")
+ 
